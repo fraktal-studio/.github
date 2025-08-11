@@ -20,7 +20,4 @@ https://github.com/fraktal-studio
 Follow us for updates and announcements!
 
 # Join Our Discord
-Join the conversation, get support, and connect with the Fraktal Studio community on Discord:  
-[![Discord](https://img.shields.io/discord/your-server-id.svg?style=for-the-badge)](https://discord.gg/k5KJnbFt)
-
-*Replace `https://discord.gg/your-invite-code` with your actual invite link.*
+Join the conversation, get support, and connect with the Fraktal Studio community on our [Discord Channel](https://discord.gg/k5KJnbFt).
